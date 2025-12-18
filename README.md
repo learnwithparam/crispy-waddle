@@ -6,12 +6,12 @@ This workshop is a hands-on guide to prompt engineering, taking you from basic i
 
 ## 🌟 What You'll Learn
 
-Through 10 interactive Jupyter notebooks, you'll master:
+Through 14 interactive Jupyter notebooks, you'll master:
 
 1.  **Foundations**: Basics of Context, Task, and Format.
 2.  **Techniques**: Role prompting, Few-Shot learning, and Chain-of-Thought.
 3.  **Optimization**: Reducing hallucinations and formatting output.
-4.  **Advanced Flows**: Chaining prompts and building complex "Mega-Prompts".
+4.  **Advanced Flows**: Chaining prompts, routing, and iterative reflection.
 
 ## 📚 Notebook Guide
 
@@ -27,6 +27,10 @@ Through 10 interactive Jupyter notebooks, you'll master:
 | **08** | [Avoiding Hallucinations](08-avoiding-hallucinations.ipynb) | Fact-checking, "I don't know" | A Faithful Q&A Bot |
 | **09** | [Complex Prompts](09-complex-prompts.ipynb) | Modular Prompts, Rules | A Board Game Referee |
 | **10** | [Chaining Prompts](10-chaining-prompts.ipynb) | Pipelines, Workflows | An Interactive Story Generator |
+| **11** | [Complex Structured Output](11-complex-structured-output.ipynb) | Nested JSON, Thinking Blocks | A Green Bites Order Processor |
+| **12** | [Routing & Orchestration](12-routing-and-orchestration.ipynb) | Classification, Experts | A Luxury Hotel Assistant |
+| **13** | [Reflection & Refinement](13-reflection-and-iterative-refinement.ipynb) | Self-Critique, Writer/Editor | A Premium Restaurant Critic |
+| **14** | [Prompt Optimization](14-prompt-optimization.ipynb) | Metaprompting, Generation | A specialized Prompt Engineer AI |
 
 ## 🚀 Quick Start
 
